@@ -1,4 +1,4 @@
-#Lexur — Quiet Luxury, Considered Living
+# Lexur — Quiet Luxury, Considered Living
 
 Lexur is a fully responsive, single-page e-commerce concept website for a fictional quiet-luxury clothing brand. Built with pure HTML, CSS, and vanilla JavaScript, it delivers a refined, editorial aesthetic inspired by heritage fashion houses, while remaining lightweight and dependency-free.
 
@@ -6,21 +6,21 @@ The design is built on a carefully curated color system centered on warm ivory (
 
 Key features include:
 
-#Bilingual support (Greek/English) with instant language toggling and localStorage persistence
+# Bilingual support (Greek/English) with instant language toggling and localStorage persistence
 
-#Custom cursor with a smooth trailing ring effect (desktop only)
+# Custom cursor with a smooth trailing ring effect (desktop only)
 
-#Scroll progress indicator and animated back-to-top button
+# Scroll progress indicator and animated back-to-top button
 
-#Intersection Observer-powered scroll reveals for gentle content animations
+# Intersection Observer-powered scroll reveals for gentle content animations
 
-#Responsive mobile navigation with an accessible slide-in menu
+# Responsive mobile navigation with an accessible slide-in menu
 
-#Interactive FAQ accordion with proper ARIA states
+# Interactive FAQ accordion with proper ARIA states
 
-#Full collection showcase featuring 25 thoughtfully named garments
+# Full collection showcase featuring 25 thoughtfully named garments
 
-#Accessibility considerations including reduced-motion support, focus-visible outlines, and semantic markup
+# Accessibility considerations including reduced-motion support, focus-visible outlines, and semantic markup
 
 The site is organized into distinct sections — Hero, About, Collection, Values, Testimonials, Journal, FAQ, Contact, and Footer — each crafted to tell the story of a brand that values craftsmanship, sustainability, and longevity.
 
